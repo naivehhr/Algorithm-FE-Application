@@ -12,3 +12,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.main {
+  display: flex;
+  /* flex-direction: column; */
+  /* background: red; */
+}
+
+.column {
+  flex: 1;
+}
+
+.item {
+  /* background: yellow; */
+}
+
